@@ -1,8 +1,10 @@
-package com.suny.common;
+package com.suny.common.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.suny.common.Fragment;
 
 import java.util.List;
 
@@ -50,7 +52,7 @@ public abstract class Activity extends AppCompatActivity {
             //遍历所有fragment
             for (androidx.fragment.app.Fragment fragment : fragments){
                 //判断是否为我们能够处理的fragment
-                if (fragment instanceof Fragment){
+                if (fragment instanceof com.suny.common.Fragment){
                     //判断back键是否有处理，返回true则拦截不往下执行
                     if(((Fragment) fragment).onBackPressed()){
                         return;

@@ -3,7 +3,7 @@
     package="com.suny.common">
 
     <application>
-        <activity android:name=".Activity"></activity>
+        <activity android:name=".app.Activity"></activity>
     </application>
 
 </manifest>

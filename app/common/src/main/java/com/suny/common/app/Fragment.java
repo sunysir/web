@@ -72,7 +72,7 @@ public abstract class Fragment extends androidx.fragment.app.Fragment {
      * 返回按键时触发调用
      * @return false 默认返回false，表示不处理走原生流程，返回true，表示自己处理Activity不是finish
      */
-    protected boolean onBackPressed(){
+    public boolean onBackPressed(){
         return false;
     }
 }
