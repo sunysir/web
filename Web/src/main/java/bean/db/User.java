@@ -50,7 +50,10 @@ public class User {
     @Column
     private String pushId;
 
-    @JoinColumn(name = "groupId")
+    @Column(nullable = true)
+    private int sex = 0;
+
+    @JoinColumn(name = "ownerId")
     @LazyCollection(LazyCollectionOption.EXTRA)
     @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
     private Set<Group> groups = new HashSet<>();
@@ -79,6 +82,14 @@ public class User {
     @LazyCollection(LazyCollectionOption.EXTRA)
     @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
     private Set<UserFollow> followers = new HashSet<>();
+
+    public int getSex() {
+        return sex;
+    }
+
+    public void setSex(int sex) {
+        this.sex = sex;
+    }
 
     public Set<UserFollow> getFollowing() {
         return following;

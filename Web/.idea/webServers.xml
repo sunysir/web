@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fced9513-ada8-40e2-a17c-efe70419e42f" name="tecentYun" url="http://193.112.199.146">
+        <fileTransfer rootFolder="/home/sunyang/tomcat/apache-tomcat-7.0.105/webapps" accessType="SFTP" host="193.112.199.146" port="22" sshConfigId="1fcdde12-90d8-458e-ab8c-c58ccdba4d26" sshConfig="sunyang@193.112.199.146:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -8,7 +8,7 @@
         <!-- 数据库链接驱动 -->
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <!--链接地址用户名密码 -->
-        <property name="connection.url">jdbc:mysql://127.0.0.1:3306/dbtest</property>
+        <property name="connection.url">jdbc:mysql://127.0.0.1:3306/db_test</property>
         <property name="connection.username">root</property>
         <property name="connection.password">123456</property>
 
@@ -50,6 +50,12 @@
         <property name="hbm2ddl.auto">update</property>
 
         <mapping class="bean.db.User"/>
+        <mapping class="bean.db.Apply"/>
+        <mapping class="bean.db.Group"/>
+        <mapping class="bean.db.GroupMember"/>
+        <mapping class="bean.db.Message"/>
+        <mapping class="bean.db.PushHistory"/>
+        <mapping class="bean.db.UserFollow"/>
         <!--
         create：表示启动的时候先drop，再create
         create-drop: 也表示创建，只不过再系统关闭前执行一下drop

@@ -2,159 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95dcc6a4-43f6-491e-8f3a-d36504c3b46c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_activation_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jaxb_api_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jaxb_api_2_3_0__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jaxb_core_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jaxb_impl_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/iTalker.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/service/AccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/iTalker-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/javax.persistence-2.1.0-rc1.jar.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/main/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/db/Apply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/db/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/db/GroupMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/db/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/db/PushHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/db/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/db/UserFollow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/androidTest/java/com/suny/iTalker/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/java/com/suny/iTalker/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/drawable-xxxhdip/bg_src_morning.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/drawable-xxxhdip/default_portrait.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/app/src/test/java/com/suny/iTalker/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/androidTest/java/com/suny/common/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/app/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/app/Fragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/widget/AdapterCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/widget/RecyclerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/color/cb_gallery.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable-v21/ic_touch_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_back.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_check_circle_selected.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_check_circle_unselected.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_contact.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_contact_add.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_done.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_g_translate_black.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_group.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_group_add.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/ic_touch_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/sel_btn_bg_accent_44.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/drawable/sel_cb_circle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/layout/activity_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/layout/fragment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/values-v21/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/values/attrs_base.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/values/ids.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/common/src/test/java/com/suny/common/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bean/api/account/AccountRspModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bean/api/account/LoginModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bean/api/account/RegisterModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bean/api/account/UpdateUserInfoModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bean/api/base/ResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bean/card/UserCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/UserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/provider/GsonProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/provider/LocalDateTimeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Hib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/TextUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bean/api/account/RegisterModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bean/api/account/RegisterModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bean/db/GroupMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bean/db/GroupMember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/bean/db/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/bean/db/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/factory/UserFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/factory/UserFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/provider/GsonProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/provider/GsonProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/provider/LocalDateTimeConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/provider/LocalDateTimeConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/service/BaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/utils/TextUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/utils/TextUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/iTalker-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/iTalker-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web/bean/db/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bean/db/GroupMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bean/db/GroupMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bean/db/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bean/db/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../app/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/java/com/suny/iTalker/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app/common/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/common/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/app/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/app/Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/app/Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/app/Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/widget/AdapterCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/src/main/java/com/suny/common/widget/RecyclerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/src/main/res/layout/activity_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/common/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/common/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/common/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -205,7 +127,6 @@
   <component name="ProjectId" id="1YD5mvKDIqD09yvqqlZjuXAuh8K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -215,36 +136,38 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/微信/MVP手工打造IM即时通讯 源码及资料/慕聊课程源码/慕聊第05章源码/Web" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3275862" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\project\Web\build\libs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\project\Web\build\libs" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\Web\src\main\java\provider" />
+      <recent name="F:\project\Web\src\main\java" />
+      <recent name="F:\project\Web\build\libs" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Tomcat Server.tecentYun">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="iTalker.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 7.0.99" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.99" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Gradle___zte___iTalker_1_0_SNAPSHOT_war/" />
+    <configuration name="Tomcat 7.0.105" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.105" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Gradle : zte : iTalker-1.0-SNAPSHOT.war">
           <settings>
-            <option name="CONTEXT_PATH" value="/Gradle___zte___iTalker_1_0_SNAPSHOT_war" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -313,28 +236,82 @@
         </option>
       </method>
     </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+    <configuration name="tecentYun" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 7.0.105" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="HOST" value="193.112.199.146" />
+      <option name="LOCAL" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://193.112.199.146:8080/" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : zte : iTalker-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="488dd16b-0a8c-4125-a8b1-b19dfac72af6" />
+                    <id>488dd16b-0a8c-4125-a8b1-b19dfac72af6</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="488dd16b-0a8c-4125-a8b1-b19dfac72af6" />
+                    <id>488dd16b-0a8c-4125-a8b1-b19dfac72af6</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="/" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="7c701ea5-9c00-41b0-93fe-db1ef806d286" />
+                    <id>7c701ea5-9c00-41b0-93fe-db1ef806d286</id>
+                  </TransportTarget>
+                </option>
+                <staging-path>/</staging-path>
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="7c701ea5-9c00-41b0-93fe-db1ef806d286" />
+                    <id>7c701ea5-9c00-41b0-93fe-db1ef806d286</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="fced9513-ada8-40e2-a17c-efe70419e42f" />
+          <host-id>fced9513-ada8-40e2-a17c-efe70419e42f</host-id>
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59639" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : zte : iTalker-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.105" />
+      <item itemvalue="Tomcat Server.tecentYun" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -357,108 +334,132 @@
       <workItem from="1583040832133" duration="304000" />
       <workItem from="1583041156730" duration="3881000" />
       <workItem from="1583055849112" duration="12390000" />
+      <workItem from="1584859854809" duration="13001000" />
+      <workItem from="1584970304534" duration="2124000" />
+      <workItem from="1585227229242" duration="6013000" />
+      <workItem from="1585315136536" duration="8323000" />
+      <workItem from="1585376924397" duration="1777000" />
+      <workItem from="1585834637009" duration="2000000" />
+      <workItem from="1585974485438" duration="6687000" />
+      <workItem from="1586138300408" duration="3370000" />
+      <workItem from="1586786698082" duration="598000" />
+      <workItem from="1588940878980" duration="297000" />
+      <workItem from="1588947669818" duration="25000" />
+      <workItem from="1588947738421" duration="605000" />
+      <workItem from="1589076587231" duration="599000" />
+      <workItem from="1594526134764" duration="2482000" />
+      <workItem from="1595121929175" duration="592000" />
+      <workItem from="1595769606557" duration="634000" />
+      <workItem from="1596029481557" duration="593000" />
+      <workItem from="1596206620708" duration="604000" />
+      <workItem from="1596630895711" duration="599000" />
+      <workItem from="1596887952995" duration="1000" />
+      <workItem from="1597806010189" duration="18411000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="181" key="#Assign_Data_Sources" timestamp="1583066657105">
+    <state x="740" y="324" key="#BuildArtifactsBeforeRunChooser" timestamp="1597834875613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="181" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1583066657105" />
-    <state x="552" y="181" key="#Auto_Import" timestamp="1583068661210">
+    <state x="740" y="324" key="#BuildArtifactsBeforeRunChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597834875613" />
+    <state x="438" y="182" key="#Deployment" timestamp="1597806458584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="181" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1583068661210" />
-    <state x="552" y="181" key="#Project_Structure" timestamp="1582556464134">
+    <state x="438" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1597806458584" />
+    <state x="536" y="164" key="#SSH_Configurations" timestamp="1597806382170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582556464134" />
-    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583056051873">
+    <state x="536" y="164" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1597806382170" />
+    <state x="734" y="416" key="#Tomcat_Server" timestamp="1597833866698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583056051873" />
-    <state x="765" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1583078095990">
+    <state x="734" y="416" key="#Tomcat_Server/0.0.1920.1040@0.0.1920.1040" timestamp="1597833866698" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597836348964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="213" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583078095990" />
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583040664920">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597836348964" />
+    <state x="682" y="157" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1597834548587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583040664920" />
-    <state x="675" y="174" key="#jaxb-api-2.3.0.jar" timestamp="1582471564231">
+    <state x="682" y="157" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1597834548587" />
+    <state x="679" y="68" key="#tecentYun" timestamp="1597823554596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="675" y="174" key="#jaxb-api-2.3.0.jar/0.0.1920.1040@0.0.1920.1040" timestamp="1582471564231" />
-    <state x="941" y="414" key="FileChooserDialogImpl" timestamp="1583040456573">
+    <state x="679" y="68" key="#tecentYun/0.0.1920.1040@0.0.1920.1040" timestamp="1597823554596" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1597834547341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="941" y="414" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583040456573" />
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1583077308325">
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597834547341" />
+    <state width="630" height="247" key="GridCell.Tab.0.bottom" timestamp="1597837554162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583077308325" />
-    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1583077308325">
+    <state width="630" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597837554162" />
+    <state width="630" height="247" key="GridCell.Tab.0.center" timestamp="1597837554162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583077308325" />
-    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1583077308325">
+    <state width="630" height="247" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597837554162" />
+    <state width="630" height="247" key="GridCell.Tab.0.left" timestamp="1597837554162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583077308325" />
-    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1583077308325">
+    <state width="630" height="247" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597837554162" />
+    <state width="630" height="247" key="GridCell.Tab.0.right" timestamp="1597837554162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583077308325" />
-    <state width="1281" height="279" key="GridCell.Tab.1.bottom" timestamp="1582471486891">
+    <state width="630" height="247" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597837554162" />
+    <state width="1281" height="247" key="GridCell.Tab.1.bottom" timestamp="1597834884651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582471486891" />
-    <state width="1281" height="279" key="GridCell.Tab.1.center" timestamp="1582471486891">
+    <state width="1281" height="247" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597834884651" />
+    <state width="1281" height="247" key="GridCell.Tab.1.center" timestamp="1597834884651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582471486891" />
-    <state width="1281" height="279" key="GridCell.Tab.1.left" timestamp="1582471486891">
+    <state width="1281" height="247" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597834884651" />
+    <state width="1281" height="247" key="GridCell.Tab.1.left" timestamp="1597834884651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582471486891" />
-    <state width="1281" height="279" key="GridCell.Tab.1.right" timestamp="1582471486891">
+    <state width="1281" height="247" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597834884651" />
+    <state width="1281" height="247" key="GridCell.Tab.1.right" timestamp="1597834884651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582471486891" />
-    <state width="1281" height="279" key="GridCell.Tab.2.bottom" timestamp="1582471486891">
+    <state width="1281" height="247" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597834884651" />
+    <state width="1281" height="247" key="GridCell.Tab.2.bottom" timestamp="1597834884651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="279" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582471486891" />
-    <state width="1281" height="279" key="GridCell.Tab.2.center" timestamp="1582471486891">
+    <state width="1281" height="247" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597834884651" />
+    <state width="1281" height="247" key="GridCell.Tab.2.center" timestamp="1597834884651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="279" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582471486891" />
-    <state width="1281" height="279" key="GridCell.Tab.2.left" timestamp="1582471486891">
+    <state width="1281" height="247" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597834884651" />
+    <state width="1281" height="247" key="GridCell.Tab.2.left" timestamp="1597834884651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="279" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582471486891" />
-    <state width="1281" height="279" key="GridCell.Tab.2.right" timestamp="1582471486891">
+    <state width="1281" height="247" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597834884651" />
+    <state width="1281" height="247" key="GridCell.Tab.2.right" timestamp="1597834884651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="279" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582471486891" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1582810404494">
+    <state width="1281" height="247" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597834884651" />
+    <state x="661" y="228" width="598" height="584" key="find.popup" timestamp="1594532106425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582810404494" />
-    <state x="681" y="265" width="540" height="524" key="StructurePopup" timestamp="1582465835167">
+    <state x="661" y="228" width="598" height="584" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594532106425" />
+    <state x="855" y="249" key="ftp.server.browser" timestamp="1597806406517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="681" y="265" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1582465835167" />
-    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583041183954">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583041183954" />
-    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1583074657175">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583074657175" />
+    <state x="855" y="249" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1597806406517" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/provider/LocalDateTimeConverter.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

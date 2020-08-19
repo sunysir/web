@@ -8,7 +8,7 @@ import javax.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "TB_USER")
+@Table(name = "TB_MEMBER")
 public class GroupMember {
     public static final int PERMISSION_TYPE_NONE = 0;//普通成员
     public static final int PERMISSION_TYPE_ADMIN = 1;//群管理员
@@ -57,7 +57,6 @@ public class GroupMember {
     @JoinColumn(name = "groupId")
     @ManyToOne(optional = false, fetch = FetchType.EAGER, cascade = CascadeType.ALL)
     private Group group;
-
     @Column(nullable = false, insertable = false, updatable = false)
     private String groupId;
 
